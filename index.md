@@ -2,6 +2,8 @@
 title: CS16, Fall 2016, zmatni
 ---
 
+# PLEASE NOTE THAT THIS IS AN OLD WEBSITE. DO NOT REFER TO IT FOR THE CURRENT QUARTER!!!
+
 # {{site.course}}, {{site.quarter}}
 
 
